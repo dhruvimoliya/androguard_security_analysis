@@ -140,24 +140,6 @@ Both tools include comprehensive error handling for:
 - **No Dynamic Analysis**: Does not execute the application
 - **Androguard Dependency**: Analysis quality depends on Androguard's capabilities
 
-## Future Enhancements
-
-- [ ] Support for batch APK analysis
-- [ ] JSON/CSV export for automated reporting
-- [ ] Integration with VirusTotal API for malware detection
-- [ ] Visualization of app components and permissions
-- [ ] Advanced obfuscation detection
-- [ ] Network security configuration analysis
-
-## Learning Outcomes
-
-This project demonstrates:
-- Understanding of Android security model and permission system
-- Static analysis techniques for mobile applications
-- Python scripting for security automation
-- Security risk assessment methodologies
-- Mobile application security fundamentals
-
 ## Legal Disclaimer
 
 ⚠️ **Important**: These tools are for educational and authorized security research purposes only.
@@ -173,17 +155,11 @@ This project demonstrates:
 - [Android Security Overview](https://source.android.com/security)
 - [OWASP Mobile Security Project](https://owasp.org/www-project-mobile-security/)
 
-## Author
-
-**Dhruvi Moliya**
-- GitHub: [@dhruvimoliya](https://github.com/dhruvimoliya)
-- LinkedIn: [dhruvi-moliya](https://linkedin.com/in/dhruvi-moliya-)
-- Medium: [@Mirage43](https://medium.com/@Mirage43)
-
 ## License
 
 This project is open source and available for educational purposes.
 
 ---
 
-**Note**: Developed as part of mobile security research coursework at Gujarat University.
+
+**Note**: Developed as part of mobile security research coursework of ISEA-III bootcamp.
