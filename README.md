@@ -158,7 +158,3 @@ Both tools include comprehensive error handling for:
 ## License
 
 This project is open source and available for educational purposes.
-
----
-
-**Note**: Developed as part of mobile security research coursework at Gujarat University.
